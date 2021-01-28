@@ -15,7 +15,7 @@
 			<p class="help is-danger">{{ errorMessage }}</p>
 		</div>
 	</div>
-</template>
+</template> 
 
 <script>
 	import { defineComponent } from "vue";
